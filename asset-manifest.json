@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bakvass/static/css/main.a3267dda.chunk.css",
+    "main.js": "/bakvass/static/js/main.7368bbb2.chunk.js",
+    "main.js.map": "/bakvass/static/js/main.7368bbb2.chunk.js.map",
+    "runtime-main.js": "/bakvass/static/js/runtime-main.31fdfbfe.js",
+    "runtime-main.js.map": "/bakvass/static/js/runtime-main.31fdfbfe.js.map",
+    "static/js/2.478d0d90.chunk.js": "/bakvass/static/js/2.478d0d90.chunk.js",
+    "static/js/2.478d0d90.chunk.js.map": "/bakvass/static/js/2.478d0d90.chunk.js.map",
+    "static/js/3.a3618463.chunk.js": "/bakvass/static/js/3.a3618463.chunk.js",
+    "static/js/3.a3618463.chunk.js.map": "/bakvass/static/js/3.a3618463.chunk.js.map",
+    "index.html": "/bakvass/index.html",
+    "static/css/main.a3267dda.chunk.css.map": "/bakvass/static/css/main.a3267dda.chunk.css.map",
+    "static/js/2.478d0d90.chunk.js.LICENSE.txt": "/bakvass/static/js/2.478d0d90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31fdfbfe.js",
+    "static/js/2.478d0d90.chunk.js",
+    "static/css/main.a3267dda.chunk.css",
+    "static/js/main.7368bbb2.chunk.js"
+  ]
+}
